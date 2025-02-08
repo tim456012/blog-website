@@ -3,6 +3,99 @@
 // Don't forget to maintain level of structure for variables
 
 :root {
-  --qwer-bg-color: #e1e3dd;
-  --qwer-text-color: black;
+  --qwer-bg-color: #f2f2ed;
+  --qwer-text-color: #171717;
+  --qwer-btn-hover-color: #d4d4c4;
+
+  #header {
+    input:focus {
+      --qwer-input-outline-color: #171717;
+    }
+  }
+
+  #footer {
+    --qwer-link-hover-color: #307dcf;
+  }
+
+  .index-post {
+    --qwer-bg-color: #f2f2ed;
+    --qwer-title-hover-color: white;
+    --qwer-series-border-color: #bbddce;
+    --qwer-series-bg-color: #e5bc76;
+    --qwer-series-bg-hover-color: #efd5a9;
+  }
+
+  #post {
+    --qwer-bg-color: #f4f4f0;
+  }
+
+  #post-bottom {
+    --qwer-bg-color: #f4f4f0;
+  }
+
+  .prose {
+    --qwer-strong-color: #55aa84;
+    --qwer-link-color: #307dcf;
+    --qwer-link-hover-color: #307dcf;
+  }
+
+  --qwer-link-color: #307dcf;
+  --qwer-link-hover-color: #307dcf;
+
+  #nprogress {
+    --qwer-bg-color: #7ebea1;
+    --qwer-box-shadow-1: #7ebea1;
+    --qwer-box-shadow-2: #7ebea1;
+    --qwer-border-top-color: #7ebea1;
+    --qwer-border-left-color: #7ebea1;
+  }
+}
+
+.dark {
+  --qwer-bg-color: #171717;
+  --qwer-text-color: #f2f2ed;
+  --qwer-btn-hover-color: #666666;
+
+  #header {
+    input:focus {
+      --qwer-input-outline-color: #f2f2ed;
+    }
+  }
+
+  #footer {
+    --qwer-link-hover-color: #5a97d8;
+  }
+
+  .index-post {
+    --qwer-bg-color: #1a1a1a;
+    --qwer-title-hover-color: white;
+    --qwer-series-border-color: #224435;
+    --qwer-series-bg-color: #e5bc76;
+    --qwer-series-bg-hover-color: #deab54;
+  }
+
+  #post {
+    --qwer-bg-color: #1a1a1a;
+  }
+
+  #post-bottom {
+    --qwer-bg-color: #1a1a1a;
+  }
+
+  .prose {
+    --qwer-strong-color: #a5d2be;
+    --qwer-link-color: #5a97d8;
+    --qwer-link-hover-color: #5a97d8;
+  }
+
+  --qwer-link-color: #5a97d8;
+  --qwer-link-hover-color: #5a97d8;
+
+  #nprogress {
+    --qwer-bg-color: #7ebea1;
+    --qwer-box-shadow-1: #7ebea1;
+    --qwer-box-shadow-2: #7ebea1;
+    --qwer-border-top-color: #7ebea1;
+    --qwer-border-left-color: #7ebea1;
+  }
 }

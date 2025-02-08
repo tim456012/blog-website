@@ -1,96 +1,57 @@
 ---
-title: About QWER
+title: About Me - Danny Chan
 description: Information about QWER - Simply Awesome Blog Starter. Built using SvelteKit and Love.
-published: '2022-08-20T00:00:00.000+08:00'
-updated: '2022-09-16T12:00:00.000+08:00'
-cover: /qwer.webp
+published: '2025-02-06T00:00:00.000-05:00'
+updated: '2025-02-06T00:00:00.000-05:00'
 options:
   - unlisted
 ---
 
-## 🎉 QWER
+An idiot who love video games, obsessed with making them. Always a neophyte on creativity; it's hard, it's elusive, it's pellucid, but there's elegance in the emergence. And I love every bit of it.
 
-[QWER](https://github.com/kwchang0831/svelte-QWER) is a blog starter and static site generator, built with [Svelte](https://svelte.dev/) and [SvelteKit](https://kit.svelte.dev/).
+It's beautiful to make something breathtaking through programming. Never stop creating, failing, and learning.
 
-<ImgZoom src="/preview.webp" alt="QWER Preview" />
+> Don't let me get me do what I want<br>
+> Don't let me get me pursue what I want<br>
+> Don't let me get me view what I want<br>
+> So that I realize the world<br>
+> --<cite>SawanoHiroyuki[nZk]:mizuki - ViEW</cite>
 
-<ImgZoom src="/mobile-preview.webp" alt="QWER Mobile Preview" />
+## Intro
 
-## ✨ Features
+No matter how you found this website or are even interested in reading this article. Welcome here! My name's Danny and nice to meet you all. I'm a newbie game developer who just moving to Toronto from Hong Kong around two months ago at the time I'm writing this post. Since this is my first blog post, ~(And I actually don't know where to start lol)~ I should share what will you find in this blog and my story first.
 
-- ⚡ Super fast site performance. Near **Perfect** [PageSpeed](https://pagespeed.web.dev/) score.
+## About the blog
 
-- 🤗 SEO ready with meta, [Open Graph](https://ogp.me/), [Schema](https://schema.org/), [JSON-LD](https://json-ld.org/), [microformats2](https://indieweb.org/microformats2).
+Most of the posts will focus on game development topics, such as dev logs or study progress (computer graphics or software engineering). Sometime there may be book reviews or other things I'd like to share. Ultimately, I hope this blog is not just a place to store my cheat sheets but also something that can help others who are also creating video games.
 
-- 🔎 On-site Search.
+## About me
 
-- 📱 Mobile-First / Responsive design.
+I was born in Hong Kong and I am 23 years old now. My life has been closely tied to video game when I was little. I've played various video games on Nintendo Game Boy Pocket, DVDs, Flash Player, and Nintendo DS. Many great games have given me unforgettable memories, which guided me to become a game developer today. After graduating from high school, I took a diploma and degree program in game software development, building my fundamental skills over four years. Not long ago, I quit my job where I had worked for a year after graduating from college, and moved to Canada to start a new journey.
 
-- ✍️ Write post with [Markdown syntax](https://www.markdownguide.org/basic-syntax/).
+### Hobbies
 
-- 🧮 🧪 Wirte Math and Chemical formulas with [TeX Syntax](https://www.math.brown.edu/johsilve/ReferenceCards/TeXRefCard.v1.5.pdf) via [Katex](https://katex.org/) & [mhchem](https://mhchem.github.io/MathJax-mhchem/).
+#### Playing video game
 
-- 📁 Folder-based organization for creating posts.
+Well, I've played different genres except for horror theme or games have similar vibe. Here is the games which inspired me so much back to the day I played:
+- Croket! Great Jikuu no Boukensha
+- Jet Impulse
+- Harvest Moon DS: Grand Bazaar
+- Keroro RPG: Kishi to Musha to Densetsu no Kaizoku
+- Suikoden Tierkreis
+- Grand Theft Auto IV
 
-- 🏷️ Multi-Tags filtering.
+Here is the games I recently playing:
+- Arknights
+- Final Fantasy XIV
+- Red Dead Redemption 2
+- Xenoblade Chronicles DE
 
-- 📄 Auto-Generate Table of Content for posts.
+#### Listening music
+Music is my spiritual source, helping me get through the hardship of everyday life. I mostly listen the original soundtracks or pop music created by Japanese artists, as ACG culture had a huge impact on me while growing up. One of my favorite artist is the composer [Hiroyuki Sawano](https://en.wikipedia.org/wiki/Hiroyuki_Sawano), a legendary composer whose work I feel fortunate to have encountered in my life. 
 
-- 📦 Out-of-the-box support for [Atom feed](https://validator.w3.org/feed/docs/atom.html), Sitemap, [PWA](https://web.dev/progressive-web-apps/), [JSON Feed](https://www.jsonfeed.org/).
+As you may have noticed from the preamble, I quoted a refrain from one of his vocal work, [ViEW](https://www.youtube.com/watch?v=AKAp0oGjxaM), from his vocal project's second album, [2V-ALK](https://en.wikipedia.org/wiki/2V-ALK) (It's a great album by the way). The lyrics inspire me to hold on to my initial movitation in my heart while pursuing my goals, which prefectly aligns with my current situation.
 
-- 🖼️ Automatic image optimization via [vite-imagetools](https://github.com/JonasKruckenberg/imagetools).
+## Special thanks
 
-- ⚙️ Support embedding Svelte components and Javascript with Markdown.
-
-- 💬 Supports [Giscus](https://github.com/giscus/giscus) - a comments system powerd by Github Discussions.
-
-- 💄 Utilizes [UnoCSS](https://github.com/unocss/unocss) - the instant on-demand atomic CSS engine.
-
-- 🌐 i18n via [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n).
-
-- 🚀 Deploy the blog **Free** on [Vercel](https://vercel.com/) or [Netlify](https://Netlify.com/).
-
-## 📚 Learn More
-
-Please read more at our [Documentation](https://docs-svelte-qwer.vercel.app/).
-
-## 👷 Current State
-
-[QWER](https://github.com/kwchang0831/svelte-QWER) is at its' very early stage. Kindly expect frequent breaking changes.
-
-Just copy and paste your `user` folder to the latest release.
-
-Watch out for the CHANGELOG to see if yor are required to migrate `user/config` or other places.
-
-## ❓ Issues / Problems / Questions
-
-Please take advantage of our [Github's Q&A Discussion board](https://github.com/kwchang0831/svelte-QWER/discussions/categories/q-a).
-
-## 😊 Are you using QWER?
-
-Please consider adding `svelte-qwer` topic to your repository.
-
-To see who else are using QWER, please check [Github-Topics: svelte-qwer](https://github.com/topics/svelte-qwer).
-
-## 🎉 Support
-
-<div class="flex" style="display:inline-block; font-size: 24px; --un-bg-opacity: 1; background-color: rgba(255, 221, 0); border-radius: 0.5rem; padding: 12px 18px; border: 2px solid;">
-<a class="flex"  href="https://www.buymeacoffee.com/kwchang0831" style="color: black;" >
-<span>🥓</span>
-<span>Buy me a Bacon</span>
-</a>
-</div>
-
-## 📝 License
-
-[MIT](https://github.com/kwchang0831/svelte-QWER/blob/main/LICENSE)
-
-## 🙏 Credits
-
-- Cover Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jess Bailey</a> on <a href="https://unsplash.com/s/photos/note?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
-- Avatar Illustration by <a href="https://icons8.com/illustrations/author/GrbQqWBEhaDS">Liam Moore</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
-
-## 👍 END
-
-Thanks so much for interesting in [QWER](https://github.com/kwchang0831/svelte-QWER). Please try it out and let me know what you think 😊.
+I want to express my gratitude and give credit to the creator of this blog, [kwchang0831](https://github.com/kwchang0831). He developed this awesome blog generator, **QWER**, built with SvelteKit. Thanks to its lightweight design and simplicity, I can easy focus on writing blog post instead of create and maintain the entire web project by myself. If you are also interested in starting your own blog, you can checkout the [project's repo](https://github.com/kwchang0831/svelte-QWER).
