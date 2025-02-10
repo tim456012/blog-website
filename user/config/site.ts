@@ -2,12 +2,12 @@ import type { Site } from '$lib/types/site';
 import type { Giscus } from '$lib/types/giscus';
 import type { DD } from '$lib/types/dd';
 
-import Avatar from '$assets/avatar.png';
-import Avatar_128 from '$assets/avatar.png?w=128&h=128&format=avif;webp&imagetools';
-import Avatar_48_PNG from '$assets/avatar.png?w=48&h=48&imagetools';
-import Avatar_96_PNG from '$assets/avatar.png?w=96&h=96&imagetools';
-import Avatar_192_PNG from '$assets/avatar.png?w=192&h=192&imagetools';
-import Avatar_512_PNG from '$assets/avatar.png?w=512&h=512&imagetools';
+import Avatar from '$assets/avatar.jpg';
+import Avatar_128 from '$assets/avatar.jpg?w=128&h=128&format=avif;webp&imagetools';
+import Avatar_48_PNG from '$assets/avatar.jpg?w=48&h=48&imagetools';
+import Avatar_96_PNG from '$assets/avatar.jpg?w=96&h=96&imagetools';
+import Avatar_192_PNG from '$assets/avatar.jpg?w=192&h=192&imagetools';
+import Avatar_512_PNG from '$assets/avatar.jpg?w=512&h=512&imagetools';
 
 import SiteCover from '$assets/qwer.webp';
 
@@ -22,9 +22,8 @@ export const siteConfig: Site.Config = {
   cover: SiteCover,
   author: {
     name: 'Danny Chan',
-    status: '🚀',
-    statusTip:
-      '<a href="https://github.com/tim456012/" rel="external" style="color:#0F0" onMouseOver="this.style.color=\'#0FF\'" onMouseOut="this.style.color=\'#0F0\'" >QWER</a> is Awesome !',
+    status: '☕',
+    statusTip: 'Always keep learning new things, and never stop exploring.',
     avatar: Avatar,
     avatar_128: Avatar_128,
     avatar_48_png: Avatar_48_PNG,
@@ -34,7 +33,7 @@ export const siteConfig: Site.Config = {
     website: 'https://chcdanny.com',
     github: 'https://github.com/tim456012',
     email: 'danny@chcdanny.com',
-    bio: `Peace begins <br/> With a smile`,
+    bio: `Take problems mix them up like a cocktail🍹`,
   },
 };
 
